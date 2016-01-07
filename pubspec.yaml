@@ -1,3 +1,5 @@
 name: spinkit
 version: 0.0.1
 author: Kasper Peulen <kasperpeulen@gmail.com>
+description: A collection of loading indicators animated with CSS
+homepage: https://github.com/kasperpeulen/SpinKit
